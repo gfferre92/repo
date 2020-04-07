@@ -2,7 +2,7 @@ Package: com.daydream.tiles
 Name: Tiles
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: Unfinished 
+Description: Unfinished tweak of an iOS 14 concept. Might mess up your notification list view.
 Maintainer: Daydream <julius.nieves@sascholar.org>
 Author: Daydream <julius.nieves@sascholar.org>
 Section: Unfinished Tweaks (Danger!)
