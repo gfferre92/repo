@@ -1,0 +1,14 @@
+Package: com.daydream.tiles
+Name: Tiles
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Unfinished 
+Maintainer: Daydream <julius.nieves@sascholar.org>
+Author: Daydream <julius.nieves@sascholar.org>
+Section: Unfinished Tweaks (Danger!)
+Depends: mobilesubstrate
+Filename: debs/com.daydream.tiles_0.0.1-40_iphoneos-arm.deb
+Size: 4200
+MD5sum: b6ae65a162cb85fe6b2081d3c09280a2
+SHA1: 7b033a5b56cb38f426a1f4d8aa50d339910af620
+SHA256: d8c1b6f19a0a861f407a8ee476a0bfdb280e16a5959b8f8111a93fd86bba7660
