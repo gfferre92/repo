@@ -1,0 +1,13 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize":"{263,148}",
+  "itemCornerRadius":10,
+  "banners":[
+    {
+      "url": "/banners/tiles.jpg",
+      "title": "Tiles",
+      "package": "com.daydream.tiles",
+      "hideShadow" false
+    }
+  ]
+}
